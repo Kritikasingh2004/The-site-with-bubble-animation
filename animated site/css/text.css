@@ -1,0 +1,24 @@
+#heading-main {
+  color: white;
+  display: inline;
+  font-size: 3rem;
+  margin-left: 13px;
+  opacity: 0.55;
+}
+#above-heading {
+  color: white;
+  display: inline;
+  font-size: 12rem;
+  line-height: 0.69;
+  opacity: 0.8;
+}
+
+.heading-container {
+  width: 34vw;
+  display: inline;
+  position: absolute;
+  top: 20vh;
+  left: 21vh;
+  font-family: "Poppins", sans-serif;
+  padding: 23px;
+}
